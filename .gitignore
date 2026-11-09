@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Proteus temp / backups
+*.bak
+*.tmp
+*.pdsprj.bak
+
+# OS
+.DS_Store
+Thumbs.db
